@@ -34,4 +34,4 @@ build/
 
 
 ### Private Data ###
-/resources
+/src/main/resources
